@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NIT UTTARAKHAND</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="di">NIT UTTARAKAND</string>
+    <string name="login">LOGIN PAGE</string>
+    <string name="register">REGISTER</string>
+    <string name="your_email">Email</string>
+    <string name="your_pass">Password</string>
+    <string name="button">LOGIN</string>
+    <string name="registration_page">Registration Page</string>
+    <string name="fill">Fill Your Details:</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="address">Address:</string>
+    <string name="country">Country:</string>
+    <string name="welcome">Welcome!</string>
+    <string name="register_but">Register</string>
+    <string name="specialist">National institute of excellence &amp; The best Institution</string>
+    <string name="website">www.nituk.ac.in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="for_pass"><a href='http://www.nituk.ac.in'> Forgot Password </a></string>
+    <string name="create_btn">Create</string>
+    <string name="retype_pass">Retype Password</string>
+    <string name="emails">Email</string>
+    <string name="dobirth">Date Of Birth</string>
+    <string name="gender">Male</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="create_account">Create Account</string>
+    <string name="your_profile">Your Signup Profile</string>
+    <string name="dob">DOB: </string>
+    <string name="gen">Gender: </string>
+    <string name="user_name">Name: </string>
+    <string name="close">Close</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="passwords">Password: </string>
+    <string name="signup">Sign Up</string>
+</resources>
